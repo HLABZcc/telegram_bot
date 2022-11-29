@@ -5,7 +5,7 @@ bot = telebot.TeleBot('       ')
 
 name = ''
 age = 0
-rost = 0
+rost = 0 
 we = 0
 
 
